@@ -14,7 +14,7 @@ public class AddPageTest {
 	}
 
 	@Test
-	public void verifyquic() {
+	public void verifyquickkkkkk000000() {
 		ap.mouseHover(ap.gettab());
 		ap.clicart();
 		ap.getcheck().click();
