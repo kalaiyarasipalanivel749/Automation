@@ -16,7 +16,7 @@ public class DressPageObjects extends BasePage {
 	@FindBy(xpath="//span[@class='heading-counter']")
 	private WebElement counting;
 
-	public DressPageObjects() {
+	public DressPageObjectspppppp() {
 		PageFactory.initElements(driver, this);
 	}
 
@@ -34,6 +34,7 @@ public class DressPageObjects extends BasePage {
 public int getcount()
 {
 	return prdcont.size();
+return prdcont.sizeeeee();
 	
 	
 }
